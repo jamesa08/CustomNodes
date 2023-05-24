@@ -1,0 +1,11 @@
+# VSCode
+.vscode
+.DS_Store
+
+# PyCharm
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
